@@ -1,0 +1,5 @@
+Thành viên:
+Trịnh Thiên Long: Xác định actor và use case
+Nguyễn Thăng Long: Xác định actor và use case
+Nguyễn Phương Nam: Không tham gia
+

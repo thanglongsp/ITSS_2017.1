@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/SearchBookController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/BookController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/entity/Book.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/boundary/RegistrationUI.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/entity/Copy.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/entity/Card.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/RegisterBorrowBookController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/boundary/LibrarianUI.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/ShowBookBorrowingController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/UpdateBookInforController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/UpdateBorrowedBookInfoController.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/entity/Registration.java</file>
+            <file>file:/D:/ITSS/BLteam/isd.vn.20171-06/LibrarySystem/Requirement/source_code/src/controller/RegisterNewCopyController.java</file>
+        </group>
+    </open-files>
+</project-private>
